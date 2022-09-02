@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Curriculo</h1>
+    <h2>Matheus Henrique Bonfim da SIlva</h2>
+    <h3>Habilidades</h3>
+    <ul>
+        <li>Muito habilidoso</li>
+        <li>Boa lógica</li>
+        <li>Boa digitação</li>
+        <li>Básico Html</li>
+        <li>Básico Java</li>
+        <li>Básico CSS</li>
+        <li>Photoshop Intermediário</li>
+    </ul>
+    <h3>Experiência</h3>
+    <ul>
+        <li>Programador Toc Toc</li>
+        <li>Tecnico em TI</li>
+        <li>Estudante da Fatec</li>
+    </ul>
+    <img src="Foto de Matheus.jpg" alt="">
+</body>
+</html>
